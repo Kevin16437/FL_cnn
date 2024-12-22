@@ -3,135 +3,370 @@
 测试集大小: 10000
 CNN网络初始化完成
 开始训练...
-Epoch 1/5, Batch 0/469 (0.0%)
+
+Epoch 1/5, Batch 0/469 (0.0%)
 Batch 0 - Loss: 2.3014 Time: 55.38s
-Epoch 1/5, Batch 10/469 (2.1%)Epoch 1/5, Batch 20/469 (4.3%)Epoch 1/5, Batch 30/469 (6.4%)Epoch 1/5, Batch 40/469 (8.5%)Epoch 1/5, Batch 50/469 (10.7%)
+
+Epoch 1/5, Batch 10/469 (2.1%)
+Epoch 1/5, Batch 20/469 (4.3%)
+Epoch 1/5, Batch 30/469 (6.4%)
+Epoch 1/5, Batch 40/469 (8.5%)
+Epoch 1/5, Batch 50/469 (10.7%)
 Batch 50 - Loss: 1.8250 Time: 62.68s
-Epoch 1/5, Batch 60/469 (12.8%)Epoch 1/5, Batch 70/469 (14.9%)Epoch 1/5, Batch 80/469 (17.1%)Epoch 1/5, Batch 90/469 (19.2%)Epoch 1/5, Batch 100/469 (21.3%)
+
+Epoch 1/5, Batch 60/469 (12.8%)
+Epoch 1/5, Batch 70/469 (14.9%)
+Epoch 1/5, Batch 80/469 (17.1%)
+Epoch 1/5, Batch 90/469 (19.2%)
+Epoch 1/5, Batch 100/469 (21.3%)
 Batch 100 - Loss: 1.1123 Time: 61.97s
-Epoch 1/5, Batch 110/469 (23.5%)Epoch 1/5, Batch 120/469 (25.6%)Epoch 1/5, Batch 130/469 (27.7%)Epoch 1/5, Batch 140/469 (29.9%)Epoch 1/5, Batch 150/469 (32.0%)
+
+Epoch 1/5, Batch 110/469 (23.5%)
+Epoch 1/5, Batch 120/469 (25.6%)
+Epoch 1/5, Batch 130/469 (27.7%)
+Epoch 1/5, Batch 140/469 (29.9%)
+Epoch 1/5, Batch 150/469 (32.0%)
 Batch 150 - Loss: 0.6905 Time: 62.20s
-Epoch 1/5, Batch 160/469 (34.1%)Epoch 1/5, Batch 170/469 (36.2%)Epoch 1/5, Batch 180/469 (38.4%)Epoch 1/5, Batch 190/469 (40.5%)Epoch 1/5, Batch 200/469 (42.6%)
+
+Epoch 1/5, Batch 160/469 (34.1%)
+Epoch 1/5, Batch 170/469 (36.2%)
+Epoch 1/5, Batch 180/469 (38.4%)
+Epoch 1/5, Batch 190/469 (40.5%)
+Epoch 1/5, Batch 200/469 (42.6%)
 Batch 200 - Loss: 0.5068 Time: 62.30s
-Epoch 1/5, Batch 210/469 (44.8%)Epoch 1/5, Batch 220/469 (46.9%)Epoch 1/5, Batch 230/469 (49.0%)Epoch 1/5, Batch 240/469 (51.2%)Epoch 1/5, Batch 250/469 (53.3%)
+
+Epoch 1/5, Batch 210/469 (44.8%)
+Epoch 1/5, Batch 220/469 (46.9%)
+Epoch 1/5, Batch 230/469 (49.0%)
+Epoch 1/5, Batch 240/469 (51.2%)
+Epoch 1/5, Batch 250/469 (53.3%)
 Batch 250 - Loss: 0.5297 Time: 62.01s
-Epoch 1/5, Batch 260/469 (55.4%)Epoch 1/5, Batch 270/469 (57.6%)Epoch 1/5, Batch 280/469 (59.7%)Epoch 1/5, Batch 290/469 (61.8%)Epoch 1/5, Batch 300/469 (64.0%)
+
+Epoch 1/5, Batch 260/469 (55.4%)
+Epoch 1/5, Batch 270/469 (57.6%)
+Epoch 1/5, Batch 280/469 (59.7%)
+Epoch 1/5, Batch 290/469 (61.8%)
+Epoch 1/5, Batch 300/469 (64.0%)
 Batch 300 - Loss: 0.4496 Time: 61.90s
-Epoch 1/5, Batch 310/469 (66.1%)Epoch 1/5, Batch 320/469 (68.2%)Epoch 1/5, Batch 330/469 (70.4%)Epoch 1/5, Batch 340/469 (72.5%)Epoch 1/5, Batch 350/469 (74.6%)
+
+Epoch 1/5, Batch 310/469 (66.1%)
+Epoch 1/5, Batch 320/469 (68.2%)
+Epoch 1/5, Batch 330/469 (70.4%)
+Epoch 1/5, Batch 340/469 (72.5%)
+Epoch 1/5, Batch 350/469 (74.6%)
 Batch 350 - Loss: 0.4265 Time: 61.85s
-Epoch 1/5, Batch 360/469 (76.8%)Epoch 1/5, Batch 370/469 (78.9%)Epoch 1/5, Batch 380/469 (81.0%)Epoch 1/5, Batch 390/469 (83.2%)Epoch 1/5, Batch 400/469 (85.3%)
+
+Epoch 1/5, Batch 360/469 (76.8%)
+Epoch 1/5, Batch 370/469 (78.9%)
+Epoch 1/5, Batch 380/469 (81.0%)
+Epoch 1/5, Batch 390/469 (83.2%)
+Epoch 1/5, Batch 400/469 (85.3%)
 Batch 400 - Loss: 0.3529 Time: 62.20s
-Epoch 1/5, Batch 410/469 (87.4%)Epoch 1/5, Batch 420/469 (89.6%)Epoch 1/5, Batch 430/469 (91.7%)Epoch 1/5, Batch 440/469 (93.8%)Epoch 1/5, Batch 450/469 (95.9%)
+
+Epoch 1/5, Batch 410/469 (87.4%)
+Epoch 1/5, Batch 420/469 (89.6%)
+Epoch 1/5, Batch 430/469 (91.7%)
+Epoch 1/5, Batch 440/469 (93.8%)
+Epoch 1/5, Batch 450/469 (95.9%)
 Batch 450 - Loss: 0.2806 Time: 61.95s
-Epoch 1/5, Batch 460/469 (98.1%)
+
+Epoch 1/5, Batch 460/469 (98.1%)
 Epoch 1/5 完成 - 平均损失: 0.7611 - 用时: 29262.76s
 
 正在评估模型...
 测试集准确率: 0.9049
 测试集准确率: 0.9049
-Epoch 2/5, Batch 0/469 (0.0%)
+
+Epoch 2/5, Batch 0/469 (0.0%)
 Batch 0 - Loss: 0.3776 Time: 63.04s
-Epoch 2/5, Batch 10/469 (2.1%)Epoch 2/5, Batch 20/469 (4.3%)Epoch 2/5, Batch 30/469 (6.4%)Epoch 2/5, Batch 40/469 (8.5%)Epoch 2/5, Batch 50/469 (10.7%)
+
+Epoch 2/5, Batch 10/469 (2.1%)
+Epoch 2/5, Batch 20/469 (4.3%)
+Epoch 2/5, Batch 30/469 (6.4%)
+Epoch 2/5, Batch 40/469 (8.5%)
+Epoch 2/5, Batch 50/469 (10.7%)
 Batch 50 - Loss: 0.2495 Time: 62.57s
-Epoch 2/5, Batch 60/469 (12.8%)Epoch 2/5, Batch 70/469 (14.9%)Epoch 2/5, Batch 80/469 (17.1%)Epoch 2/5, Batch 90/469 (19.2%)Epoch 2/5, Batch 100/469 (21.3%)
+
+Epoch 2/5, Batch 60/469 (12.8%)
+Epoch 2/5, Batch 70/469 (14.9%)
+Epoch 2/5, Batch 80/469 (17.1%)
+Epoch 2/5, Batch 90/469 (19.2%)
+Epoch 2/5, Batch 100/469 (21.3%)
 Batch 100 - Loss: 0.3331 Time: 62.36s
-Epoch 2/5, Batch 110/469 (23.5%)Epoch 2/5, Batch 120/469 (25.6%)Epoch 2/5, Batch 130/469 (27.7%)Epoch 2/5, Batch 140/469 (29.9%)Epoch 2/5, Batch 150/469 (32.0%)
+
+Epoch 2/5, Batch 110/469 (23.5%)
+Epoch 2/5, Batch 120/469 (25.6%)
+Epoch 2/5, Batch 130/469 (27.7%)
+Epoch 2/5, Batch 140/469 (29.9%)
+Epoch 2/5, Batch 150/469 (32.0%)
 Batch 150 - Loss: 0.3074 Time: 62.73s
-Epoch 2/5, Batch 160/469 (34.1%)Epoch 2/5, Batch 170/469 (36.2%)Epoch 2/5, Batch 180/469 (38.4%)Epoch 2/5, Batch 190/469 (40.5%)Epoch 2/5, Batch 200/469 (42.6%)
+
+Epoch 2/5, Batch 160/469 (34.1%)
+Epoch 2/5, Batch 170/469 (36.2%)
+Epoch 2/5, Batch 180/469 (38.4%)
+Epoch 2/5, Batch 190/469 (40.5%)
+Epoch 2/5, Batch 200/469 (42.6%)
 Batch 200 - Loss: 0.3092 Time: 62.97s
-Epoch 2/5, Batch 210/469 (44.8%)Epoch 2/5, Batch 220/469 (46.9%)Epoch 2/5, Batch 230/469 (49.0%)Epoch 2/5, Batch 240/469 (51.2%)Epoch 2/5, Batch 250/469 (53.3%)
+
+Epoch 2/5, Batch 210/469 (44.8%)
+Epoch 2/5, Batch 220/469 (46.9%)
+Epoch 2/5, Batch 230/469 (49.0%)
+Epoch 2/5, Batch 240/469 (51.2%)
+Epoch 2/5, Batch 250/469 (53.3%)
 Batch 250 - Loss: 0.2151 Time: 63.28s
-Epoch 2/5, Batch 260/469 (55.4%)Epoch 2/5, Batch 270/469 (57.6%)Epoch 2/5, Batch 280/469 (59.7%)Epoch 2/5, Batch 290/469 (61.8%)Epoch 2/5, Batch 300/469 (64.0%)
+
+Epoch 2/5, Batch 260/469 (55.4%)
+Epoch 2/5, Batch 270/469 (57.6%)
+Epoch 2/5, Batch 280/469 (59.7%)
+Epoch 2/5, Batch 290/469 (61.8%)
+Epoch 2/5, Batch 300/469 (64.0%)
 Batch 300 - Loss: 0.2667 Time: 62.30s
-Epoch 2/5, Batch 310/469 (66.1%)Epoch 2/5, Batch 320/469 (68.2%)Epoch 2/5, Batch 330/469 (70.4%)Epoch 2/5, Batch 340/469 (72.5%)Epoch 2/5, Batch 350/469 (74.6%)
+
+Epoch 2/5, Batch 310/469 (66.1%)
+Epoch 2/5, Batch 320/469 (68.2%)
+Epoch 2/5, Batch 330/469 (70.4%)
+Epoch 2/5, Batch 340/469 (72.5%)
+Epoch 2/5, Batch 350/469 (74.6%)
 Batch 350 - Loss: 0.1839 Time: 62.41s
-Epoch 2/5, Batch 360/469 (76.8%)Epoch 2/5, Batch 370/469 (78.9%)Epoch 2/5, Batch 380/469 (81.0%)Epoch 2/5, Batch 390/469 (83.2%)Epoch 2/5, Batch 400/469 (85.3%)
+
+Epoch 2/5, Batch 360/469 (76.8%)
+Epoch 2/5, Batch 370/469 (78.9%)
+Epoch 2/5, Batch 380/469 (81.0%)
+Epoch 2/5, Batch 390/469 (83.2%)
+Epoch 2/5, Batch 400/469 (85.3%)
 Batch 400 - Loss: 0.1921 Time: 62.45s
-Epoch 2/5, Batch 410/469 (87.4%)Epoch 2/5, Batch 420/469 (89.6%)Epoch 2/5, Batch 430/469 (91.7%)Epoch 2/5, Batch 440/469 (93.8%)Epoch 2/5, Batch 450/469 (95.9%)
+
+Epoch 2/5, Batch 410/469 (87.4%)
+Epoch 2/5, Batch 420/469 (89.6%)
+Epoch 2/5, Batch 430/469 (91.7%)
+Epoch 2/5, Batch 440/469 (93.8%)
+Epoch 2/5, Batch 450/469 (95.9%)
 Batch 450 - Loss: 0.1917 Time: 65.11s
-Epoch 2/5, Batch 460/469 (98.1%)
+
+Epoch 2/5, Batch 460/469 (98.1%)
 Epoch 2/5 完成 - 平均损失: 0.2648 - 用时: 29227.42s
 
 正在评估模型...
 测试集准确率: 0.9406
 测试集准确率: 0.9406
-Epoch 3/5, Batch 0/469 (0.0%)
+
+Epoch 3/5, Batch 0/469 (0.0%)
 Batch 0 - Loss: 0.1673 Time: 63.07s
-Epoch 3/5, Batch 10/469 (2.1%)Epoch 3/5, Batch 20/469 (4.3%)Epoch 3/5, Batch 30/469 (6.4%)Epoch 3/5, Batch 40/469 (8.5%)Epoch 3/5, Batch 50/469 (10.7%)
+
+Epoch 3/5, Batch 10/469 (2.1%)
+Epoch 3/5, Batch 20/469 (4.3%)
+Epoch 3/5, Batch 30/469 (6.4%)
+Epoch 3/5, Batch 40/469 (8.5%)
+Epoch 3/5, Batch 50/469 (10.7%)
 Batch 50 - Loss: 0.1924 Time: 62.15s
-Epoch 3/5, Batch 60/469 (12.8%)Epoch 3/5, Batch 70/469 (14.9%)Epoch 3/5, Batch 80/469 (17.1%)Epoch 3/5, Batch 90/469 (19.2%)Epoch 3/5, Batch 100/469 (21.3%)
+
+Epoch 3/5, Batch 60/469 (12.8%)
+Epoch 3/5, Batch 70/469 (14.9%)
+Epoch 3/5, Batch 80/469 (17.1%)
+Epoch 3/5, Batch 90/469 (19.2%)
+Epoch 3/5, Batch 100/469 (21.3%)
 Batch 100 - Loss: 0.1901 Time: 61.83s
-Epoch 3/5, Batch 110/469 (23.5%)Epoch 3/5, Batch 120/469 (25.6%)Epoch 3/5, Batch 130/469 (27.7%)Epoch 3/5, Batch 140/469 (29.9%)Epoch 3/5, Batch 150/469 (32.0%)
+
+Epoch 3/5, Batch 110/469 (23.5%)
+Epoch 3/5, Batch 120/469 (25.6%)
+Epoch 3/5, Batch 130/469 (27.7%)
+Epoch 3/5, Batch 140/469 (29.9%)
+Epoch 3/5, Batch 150/469 (32.0%)
 Batch 150 - Loss: 0.1931 Time: 62.08s
-Epoch 3/5, Batch 160/469 (34.1%)Epoch 3/5, Batch 170/469 (36.2%)Epoch 3/5, Batch 180/469 (38.4%)Epoch 3/5, Batch 190/469 (40.5%)Epoch 3/5, Batch 200/469 (42.6%)
+
+Epoch 3/5, Batch 160/469 (34.1%)
+Epoch 3/5, Batch 170/469 (36.2%)
+Epoch 3/5, Batch 180/469 (38.4%)
+Epoch 3/5, Batch 190/469 (40.5%)
+Epoch 3/5, Batch 200/469 (42.6%)
 Batch 200 - Loss: 0.2008 Time: 61.70s
-Epoch 3/5, Batch 210/469 (44.8%)Epoch 3/5, Batch 220/469 (46.9%)Epoch 3/5, Batch 230/469 (49.0%)Epoch 3/5, Batch 240/469 (51.2%)Epoch 3/5, Batch 250/469 (53.3%)
+
+Epoch 3/5, Batch 210/469 (44.8%)
+Epoch 3/5, Batch 220/469 (46.9%)
+Epoch 3/5, Batch 230/469 (49.0%)
+Epoch 3/5, Batch 240/469 (51.2%)
+Epoch 3/5, Batch 250/469 (53.3%)
 Batch 250 - Loss: 0.1935 Time: 62.04s
-Epoch 3/5, Batch 260/469 (55.4%)Epoch 3/5, Batch 270/469 (57.6%)Epoch 3/5, Batch 280/469 (59.7%)Epoch 3/5, Batch 290/469 (61.8%)Epoch 3/5, Batch 300/469 (64.0%)
+
+Epoch 3/5, Batch 260/469 (55.4%)
+Epoch 3/5, Batch 270/469 (57.6%)
+Epoch 3/5, Batch 280/469 (59.7%)
+Epoch 3/5, Batch 290/469 (61.8%)
+Epoch 3/5, Batch 300/469 (64.0%)
 Batch 300 - Loss: 0.2815 Time: 62.11s
-Epoch 3/5, Batch 310/469 (66.1%)Epoch 3/5, Batch 320/469 (68.2%)Epoch 3/5, Batch 330/469 (70.4%)Epoch 3/5, Batch 340/469 (72.5%)Epoch 3/5, Batch 350/469 (74.6%)
+
+Epoch 3/5, Batch 310/469 (66.1%)
+Epoch 3/5, Batch 320/469 (68.2%)
+Epoch 3/5, Batch 330/469 (70.4%)
+Epoch 3/5, Batch 340/469 (72.5%)
+Epoch 3/5, Batch 350/469 (74.6%)
 Batch 350 - Loss: 0.1554 Time: 62.26s
-Epoch 3/5, Batch 360/469 (76.8%)Epoch 3/5, Batch 370/469 (78.9%)Epoch 3/5, Batch 380/469 (81.0%)Epoch 3/5, Batch 390/469 (83.2%)Epoch 3/5, Batch 400/469 (85.3%)
+
+Epoch 3/5, Batch 360/469 (76.8%)
+Epoch 3/5, Batch 370/469 (78.9%)
+Epoch 3/5, Batch 380/469 (81.0%)
+Epoch 3/5, Batch 390/469 (83.2%)
+Epoch 3/5, Batch 400/469 (85.3%)
 Batch 400 - Loss: 0.1301 Time: 62.21s
-Epoch 3/5, Batch 410/469 (87.4%)Epoch 3/5, Batch 420/469 (89.6%)Epoch 3/5, Batch 430/469 (91.7%)Epoch 3/5, Batch 440/469 (93.8%)Epoch 3/5, Batch 450/469 (95.9%)
+
+Epoch 3/5, Batch 410/469 (87.4%)
+Epoch 3/5, Batch 420/469 (89.6%)
+Epoch 3/5, Batch 430/469 (91.7%)
+Epoch 3/5, Batch 440/469 (93.8%)
+Epoch 3/5, Batch 450/469 (95.9%)
 Batch 450 - Loss: 0.2242 Time: 62.38s
-Epoch 3/5, Batch 460/469 (98.1%)
+
+Epoch 3/5, Batch 460/469 (98.1%)
 Epoch 3/5 完成 - 平均损失: 0.1874 - 用时: 29205.10s
 
 正在评估模型...
 测试集准确率: 0.9517
 测试集准确率: 0.9517
-Epoch 4/5, Batch 0/469 (0.0%)
+
+Epoch 4/5, Batch 0/469 (0.0%)
 Batch 0 - Loss: 0.1916 Time: 63.15s
-Epoch 4/5, Batch 10/469 (2.1%)Epoch 4/5, Batch 20/469 (4.3%)Epoch 4/5, Batch 30/469 (6.4%)Epoch 4/5, Batch 40/469 (8.5%)Epoch 4/5, Batch 50/469 (10.7%)
+
+Epoch 4/5, Batch 10/469 (2.1%)
+Epoch 4/5, Batch 20/469 (4.3%)
+Epoch 4/5, Batch 30/469 (6.4%)
+Epoch 4/5, Batch 40/469 (8.5%)
+Epoch 4/5, Batch 50/469 (10.7%)
 Batch 50 - Loss: 0.0925 Time: 62.11s
-Epoch 4/5, Batch 60/469 (12.8%)Epoch 4/5, Batch 70/469 (14.9%)Epoch 4/5, Batch 80/469 (17.1%)Epoch 4/5, Batch 90/469 (19.2%)Epoch 4/5, Batch 100/469 (21.3%)
+
+Epoch 4/5, Batch 60/469 (12.8%)
+Epoch 4/5, Batch 70/469 (14.9%)
+Epoch 4/5, Batch 80/469 (17.1%)
+Epoch 4/5, Batch 90/469 (19.2%)
+Epoch 4/5, Batch 100/469 (21.3%)
 Batch 100 - Loss: 0.1424 Time: 61.90s
-Epoch 4/5, Batch 110/469 (23.5%)Epoch 4/5, Batch 120/469 (25.6%)Epoch 4/5, Batch 130/469 (27.7%)Epoch 4/5, Batch 140/469 (29.9%)Epoch 4/5, Batch 150/469 (32.0%)
+
+Epoch 4/5, Batch 110/469 (23.5%)
+Epoch 4/5, Batch 120/469 (25.6%)
+Epoch 4/5, Batch 130/469 (27.7%)
+Epoch 4/5, Batch 140/469 (29.9%)
+Epoch 4/5, Batch 150/469 (32.0%)
 Batch 150 - Loss: 0.1564 Time: 61.98s
-Epoch 4/5, Batch 160/469 (34.1%)Epoch 4/5, Batch 170/469 (36.2%)Epoch 4/5, Batch 180/469 (38.4%)Epoch 4/5, Batch 190/469 (40.5%)Epoch 4/5, Batch 200/469 (42.6%)
+
+Epoch 4/5, Batch 160/469 (34.1%)
+Epoch 4/5, Batch 170/469 (36.2%)
+Epoch 4/5, Batch 180/469 (38.4%)
+Epoch 4/5, Batch 190/469 (40.5%)
+Epoch 4/5, Batch 200/469 (42.6%)
 Batch 200 - Loss: 0.1479 Time: 62.17s
-Epoch 4/5, Batch 210/469 (44.8%)Epoch 4/5, Batch 220/469 (46.9%)Epoch 4/5, Batch 230/469 (49.0%)Epoch 4/5, Batch 240/469 (51.2%)Epoch 4/5, Batch 250/469 (53.3%)
+
+Epoch 4/5, Batch 210/469 (44.8%)
+Epoch 4/5, Batch 220/469 (46.9%)
+Epoch 4/5, Batch 230/469 (49.0%)
+Epoch 4/5, Batch 240/469 (51.2%)
+Epoch 4/5, Batch 250/469 (53.3%)
 Batch 250 - Loss: 0.2476 Time: 62.63s
-Epoch 4/5, Batch 260/469 (55.4%)Epoch 4/5, Batch 270/469 (57.6%)Epoch 4/5, Batch 280/469 (59.7%)Epoch 4/5, Batch 290/469 (61.8%)Epoch 4/5, Batch 300/469 (64.0%)
+
+Epoch 4/5, Batch 260/469 (55.4%)
+Epoch 4/5, Batch 270/469 (57.6%)
+Epoch 4/5, Batch 280/469 (59.7%)
+Epoch 4/5, Batch 290/469 (61.8%)
+Epoch 4/5, Batch 300/469 (64.0%)
 Batch 300 - Loss: 0.1881 Time: 62.05s
-Epoch 4/5, Batch 310/469 (66.1%)Epoch 4/5, Batch 320/469 (68.2%)Epoch 4/5, Batch 330/469 (70.4%)Epoch 4/5, Batch 340/469 (72.5%)Epoch 4/5, Batch 350/469 (74.6%)
+
+Epoch 4/5, Batch 310/469 (66.1%)
+Epoch 4/5, Batch 320/469 (68.2%)
+Epoch 4/5, Batch 330/469 (70.4%)
+Epoch 4/5, Batch 340/469 (72.5%)
+Epoch 4/5, Batch 350/469 (74.6%)
 Batch 350 - Loss: 0.2685 Time: 61.96s
-Epoch 4/5, Batch 360/469 (76.8%)Epoch 4/5, Batch 370/469 (78.9%)Epoch 4/5, Batch 380/469 (81.0%)Epoch 4/5, Batch 390/469 (83.2%)Epoch 4/5, Batch 400/469 (85.3%)
+
+Epoch 4/5, Batch 360/469 (76.8%)
+Epoch 4/5, Batch 370/469 (78.9%)
+Epoch 4/5, Batch 380/469 (81.0%)
+Epoch 4/5, Batch 390/469 (83.2%)
+Epoch 4/5, Batch 400/469 (85.3%)
 Batch 400 - Loss: 0.1156 Time: 61.97s
-Epoch 4/5, Batch 410/469 (87.4%)Epoch 4/5, Batch 420/469 (89.6%)Epoch 4/5, Batch 430/469 (91.7%)Epoch 4/5, Batch 440/469 (93.8%)Epoch 4/5, Batch 450/469 (95.9%)
+
+Epoch 4/5, Batch 410/469 (87.4%)
+Epoch 4/5, Batch 420/469 (89.6%)
+Epoch 4/5, Batch 430/469 (91.7%)
+Epoch 4/5, Batch 440/469 (93.8%)
+Epoch 4/5, Batch 450/469 (95.9%)
 Batch 450 - Loss: 0.1142 Time: 61.95s
-Epoch 4/5, Batch 460/469 (98.1%)
+
+Epoch 4/5, Batch 460/469 (98.1%)
 Epoch 4/5 完成 - 平均损失: 0.1475 - 用时: 29218.10s
 
 正在评估模型...
 测试集准确率: 0.9621
 测试集准确率: 0.9621
-Epoch 5/5, Batch 0/469 (0.0%)
+
+Epoch 5/5, Batch 0/469 (0.0%)
 Batch 0 - Loss: 0.2120 Time: 63.13s
-Epoch 5/5, Batch 10/469 (2.1%)Epoch 5/5, Batch 20/469 (4.3%)Epoch 5/5, Batch 30/469 (6.4%)Epoch 5/5, Batch 40/469 (8.5%)Epoch 5/5, Batch 50/469 (10.7%)
+
+Epoch 5/5, Batch 10/469 (2.1%)
+Epoch 5/5, Batch 20/469 (4.3%)
+Epoch 5/5, Batch 30/469 (6.4%)
+Epoch 5/5, Batch 40/469 (8.5%)
+Epoch 5/5, Batch 50/469 (10.7%)
 Batch 50 - Loss: 0.0957 Time: 62.58s
-Epoch 5/5, Batch 60/469 (12.8%)Epoch 5/5, Batch 70/469 (14.9%)Epoch 5/5, Batch 80/469 (17.1%)Epoch 5/5, Batch 90/469 (19.2%)Epoch 5/5, Batch 100/469 (21.3%)
+
+Epoch 5/5, Batch 60/469 (12.8%)
+Epoch 5/5, Batch 70/469 (14.9%)
+Epoch 5/5, Batch 80/469 (17.1%)
+Epoch 5/5, Batch 90/469 (19.2%)
+Epoch 5/5, Batch 100/469 (21.3%)
 Batch 100 - Loss: 0.1848 Time: 62.30s
-Epoch 5/5, Batch 110/469 (23.5%)Epoch 5/5, Batch 120/469 (25.6%)Epoch 5/5, Batch 130/469 (27.7%)Epoch 5/5, Batch 140/469 (29.9%)Epoch 5/5, Batch 150/469 (32.0%)
+
+Epoch 5/5, Batch 110/469 (23.5%)
+Epoch 5/5, Batch 120/469 (25.6%)
+Epoch 5/5, Batch 130/469 (27.7%)
+Epoch 5/5, Batch 140/469 (29.9%)
+Epoch 5/5, Batch 150/469 (32.0%)
 Batch 150 - Loss: 0.1748 Time: 62.59s
-Epoch 5/5, Batch 160/469 (34.1%)Epoch 5/5, Batch 170/469 (36.2%)Epoch 5/5, Batch 180/469 (38.4%)Epoch 5/5, Batch 190/469 (40.5%)Epoch 5/5, Batch 200/469 (42.6%)
+
+Epoch 5/5, Batch 160/469 (34.1%)
+Epoch 5/5, Batch 170/469 (36.2%)
+Epoch 5/5, Batch 180/469 (38.4%)
+Epoch 5/5, Batch 190/469 (40.5%)
+Epoch 5/5, Batch 200/469 (42.6%)
 Batch 200 - Loss: 0.1410 Time: 62.69s
-Epoch 5/5, Batch 210/469 (44.8%)Epoch 5/5, Batch 220/469 (46.9%)Epoch 5/5, Batch 230/469 (49.0%)Epoch 5/5, Batch 240/469 (51.2%)Epoch 5/5, Batch 250/469 (53.3%)
+
+Epoch 5/5, Batch 210/469 (44.8%)
+Epoch 5/5, Batch 220/469 (46.9%)
+Epoch 5/5, Batch 230/469 (49.0%)
+Epoch 5/5, Batch 240/469 (51.2%)
+Epoch 5/5, Batch 250/469 (53.3%)
 Batch 250 - Loss: 0.0832 Time: 62.70s
-Epoch 5/5, Batch 260/469 (55.4%)Epoch 5/5, Batch 270/469 (57.6%)Epoch 5/5, Batch 280/469 (59.7%)Epoch 5/5, Batch 290/469 (61.8%)Epoch 5/5, Batch 300/469 (64.0%)
+
+Epoch 5/5, Batch 260/469 (55.4%)
+Epoch 5/5, Batch 270/469 (57.6%)
+Epoch 5/5, Batch 280/469 (59.7%)
+Epoch 5/5, Batch 290/469 (61.8%)
+Epoch 5/5, Batch 300/469 (64.0%)
 Batch 300 - Loss: 0.1360 Time: 62.42s
-Epoch 5/5, Batch 310/469 (66.1%)Epoch 5/5, Batch 320/469 (68.2%)Epoch 5/5, Batch 330/469 (70.4%)Epoch 5/5, Batch 340/469 (72.5%)Epoch 5/5, Batch 350/469 (74.6%)
+
+Epoch 5/5, Batch 310/469 (66.1%)
+Epoch 5/5, Batch 320/469 (68.2%)
+Epoch 5/5, Batch 330/469 (70.4%)
+Epoch 5/5, Batch 340/469 (72.5%)
+Epoch 5/5, Batch 350/469 (74.6%)
 Batch 350 - Loss: 0.0757 Time: 62.28s
-Epoch 5/5, Batch 360/469 (76.8%)Epoch 5/5, Batch 370/469 (78.9%)Epoch 5/5, Batch 380/469 (81.0%)Epoch 5/5, Batch 390/469 (83.2%)Epoch 5/5, Batch 400/469 (85.3%)
+
+Epoch 5/5, Batch 360/469 (76.8%)
+Epoch 5/5, Batch 370/469 (78.9%)
+Epoch 5/5, Batch 380/469 (81.0%)
+Epoch 5/5, Batch 390/469 (83.2%)
+Epoch 5/5, Batch 400/469 (85.3%)
 Batch 400 - Loss: 0.0946 Time: 62.74s
-Epoch 5/5, Batch 410/469 (87.4%)Epoch 5/5, Batch 420/469 (89.6%)Epoch 5/5, Batch 430/469 (91.7%)Epoch 5/5, Batch 440/469 (93.8%)Epoch 5/5, Batch 450/469 (95.9%)
+
+Epoch 5/5, Batch 410/469 (87.4%)
+Epoch 5/5, Batch 420/469 (89.6%)
+Epoch 5/5, Batch 430/469 (91.7%)
+Epoch 5/5, Batch 440/469 (93.8%)
+Epoch 5/5, Batch 450/469 (95.9%)
 Batch 450 - Loss: 0.1340 Time: 62.46s
-Epoch 5/5, Batch 460/469 (98.1%)
+
+Epoch 5/5, Batch 460/469 (98.1%)
 Epoch 5/5 完成 - 平均损失: 0.1239 - 用时: 29218.25s
 
 正在评估模型...
 测试集准确率: 0.9665
 测试集准确率: 0.9665
 
-总训练时间: 155290.01s
+总训练时间: 155290.01s// 4.31h

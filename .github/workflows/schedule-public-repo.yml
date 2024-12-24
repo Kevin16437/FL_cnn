@@ -1,0 +1,18 @@
+name: Schedule Repository Public
+
+on:
+  schedule:
+    - cron: '0 16 19 1 *' # 2025年1月19日北京时间00:00，对应UTC时间2025年1月18日16:00
+
+jobs:
+  make-public:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Make repository public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh repo edit ${{ github.repository }} --visibility public
